@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel;
 
-namespace GetStartedWinForms;
+namespace Windows_Forms_Tutorial;
 
 public class Product
 {

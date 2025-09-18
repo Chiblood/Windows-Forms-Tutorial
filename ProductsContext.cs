@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 
-namespace GetStartedWinForms;
+namespace Windows_Forms_Tutorial;
 
 public class ProductsContext : DbContext
 {

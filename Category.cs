@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore.ChangeTracking;
 
-namespace GetStartedWinForms;
+namespace Windows_Forms_Tutorial;
 
 public class Category
 {
